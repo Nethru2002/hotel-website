@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Deluxe King Room",
+    "description": "A spacious room with a king-sized bed, a stunning city view, a marble bathroom, and high-speed Wi-Fi. Perfect for couples or business travelers.",
+    "price": 250,
+    "image": "/images/room-deluxe.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Luxury Suite",
+    "description": "Experience ultimate luxury in our suite featuring a separate living area, a private balcony, a jacuzzi tub, and exclusive access to our executive lounge.",
+    "price": 450,
+    "image": "/images/room-suite.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Standard Twin Room",
+    "description": "A comfortable and modern room with two single beds, an en-suite bathroom, and all the essential amenities for a pleasant stay.",
+    "price": 150,
+    "image": "/images/room-standard.jpg"
+  }
+]

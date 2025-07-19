@@ -1,0 +1,53 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+
+.hero-section {
+    background: url('/images/hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 10rem 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.feature-icon {
+    font-size: 3rem;
+    color: #0d6efd; /* Bootstrap primary blue */
+}
+
+.room-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.room-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
+
+.testimonial-card {
+    background-color: #e9ecef;
+}
+
+.footer {
+    background-color: #343a40;
+    color: white;
+}
+
+.footer a {
+    color: #adb5bd;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: white;
+}
+
+/* Booking form message styling */
+#booking-message {
+    display: none; /* Hidden by default */
+}
